@@ -1,0 +1,19 @@
+Projekta uzdevums Nr.1
+Projekta nosaukums noliktavas vadîbas sistçma
+
+Uzdevums Nr.1:
+
+Izveidot tehnisko specifikâciju programmas sadaïai “informâcijas pievienoðana” Informâcijas importçðana esoðajâ DB izmantojot CSV datu formâtu.
+
+Pirmâ uzdevuma apraksts:
+
+1.Izveidot savu grupu un sadalît pienâkumus grupâ.
+2.Izveidot savas grupas profilu vienâ no tieðsaistes projektu vadîbas sistçmâm.
+3.Pievienot sistçmai visus grupas biedrus.
+
+
+4.Izveidot îso parakstu un darbîbas algoritmu kas apraksta informâcijas importa soïus. Grupâ izrunâjiet pamata problçmas, kas var rasties importçjot datus programmâ.
+5.Definçjiet topoðas programmatûras datu glabâðanas struktûras prototipu (teksta tipa datu bâzi).
+	1.Izstrâdâjot pirmo projektu visi dati mums glabâsies vienâ datnç (vai Excel, vai access)
+	2.Kâdi dati tiks glabâti lai nodroðinât iekðçjo noliktavas darbîbu
+6.Savâ grupâ, izmantojot projektu vadîbas sistçmu, izvirziet tehniskus uzdevumus projekta moduïa “informâcijas pievienoðana” programmçðanai.

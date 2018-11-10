@@ -1,0 +1,54 @@
+4. Neatpazîst atdalîtâju 
+ja sâkâs ar nulli, tad vajag lai kopç kâ tekstu.
+
+5. 
+Piegâdâtâjs
+	Nosaukums
+	Reì. Nr.
+	Adrese
+	Pilsçta
+	Pasta indeks
+	tâlr.n
+	e-pasts
+	kontaktpersona
+Pirkumi
+	Piegâdâtâjs
+	Pasûtîjuma nr.
+	Datums
+	Produkts
+	Daudzums
+	Vienîbas cena
+	Kopâ
+Klients	
+	Nosaukums
+	Reì. Nr.
+	Juridiskâ adrese
+	*Piegâdes adrese
+	*Pilsçta
+	*Pasta indeks
+	tâlr. nr
+	e-pasts
+	Kontaktpersona
+Pârdots
+	Klients
+	Pasûtîjuma nr.
+	Datums
+	Produkts
+	Daudzums
+	Vienîbas cena
+	Kopâ
+Produkts
+	Piegâdâtâjs
+	Produkta nosaukums
+	**Produkta kods
+	**Raþotâjs
+	**Kategorija 
+	**Produkta apraksts
+	Iepirkuma cena
+	Iepirktais daudzums
+	Pârdoðanas cena
+	Pârdotais daudzums
+	Produkta daudzums noliktavâ
+
+6. 5 formas + interfeiss
+
